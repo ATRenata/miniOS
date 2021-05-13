@@ -1,0 +1,7 @@
+help
+set x 100
+print x
+help
+run script2.txt
+set y 12
+print y
